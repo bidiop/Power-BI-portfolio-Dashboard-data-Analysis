@@ -26,6 +26,7 @@ Project Steps
     •	KPIs and Metrics: This section offers a concise view of critical sales metrics, highlighting areas of success and improvement.
 
 Conclusion
+
 This project demonstrates how Power BI's advanced features, like DAX calculations, security enforcement, and interactive visuals, can transform raw data into actionable insights, supporting better decision-making. The final dashboard offers a comprehensive view of sales strengths across regions within a product category, aiding stakeholders in strategic planning.
 Considering the data insight inside, the recommendation will be to consider increasing sales in......
 
